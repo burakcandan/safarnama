@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Tales of China"
-date:   2016-05-12 22:01:43 +0530
+title: Debian'a Giriş
+date: '2016-05-12 22:01:43 +0530'
 categories: Stories
-author: "Space Ipsum"
+author: Space Ipsum
+published: true
 ---
 
 
