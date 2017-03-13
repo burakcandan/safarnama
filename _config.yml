@@ -11,7 +11,7 @@ email: your-email@domain.com
 description: STORIES ON THE MOVE
 
 baseurl: "/burakcandan." #e.g. /safarnama, /blog. Dont forget the '/'.
-url: "http://hemangsk.github.io" # the base hostname & protocol for your site
+url: "https://burakcandan.github.io/safarnama/" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
